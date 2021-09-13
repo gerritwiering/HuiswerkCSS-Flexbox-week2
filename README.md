@@ -25,7 +25,7 @@ In `index.html` vindt je de HTML voor de opdracht. Denk eraan:
 * Je kunt voor het gemak de andere HTML-elementen uit-commentariëren als je met een specifieke opdracht bezig bent.
 * Je hoeft zelf geen nieuwe bestanden aan te maken. Het `styles.css` bestand in de map `opdracht-2` is al gekoppeld aan het HTML bestand
 * Aan het CSS bestand in de map `/base` mag je niets veranderen!
-* Houd er rekening mee dat de body `1200px` breed is.
+* Houd er rekening mee dat de body `1200px` breed is.  
 * Houd het cheatsheet van CSS Tricks bij de hand voor alle [Flexbox properties](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
 
 ### Eindresultaat opdracht 2.1:
